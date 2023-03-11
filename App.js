@@ -5,7 +5,7 @@ import Counter from './src/components/Counter/Counter';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>dfdfgfdgdfgfdg</Text>
+      {/* <Text>dfdfgfdgdfgfdg</Text> */}
       <Counter />
     </View>
   );
